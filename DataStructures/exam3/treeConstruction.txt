@@ -1,0 +1,15 @@
+insert(10);
+insert(5);
+insert(17);
+insert(2);
+insert(8);
+insert(0);
+insert(6);
+insert(9);
+insert(7);
+isnert(13);
+insert(18);
+insert(11);
+inesrt(15);
+
+Post-order: 0, 2, 7, 6, 9, 8, 5, 11, 15, 13, 18, 17, 10
